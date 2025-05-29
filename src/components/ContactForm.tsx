@@ -46,9 +46,9 @@ const ContactForm = () => {
 
       await emailjs.send(
         'service_mh3cwko',
-        'template_2apds1i',
+        'template_ipy4llm',
         templateParams,
-        'ncUjMSFmfK8gMTiCG'
+        'PTWx-kFu_7HVl_Kja'
       );
 
       setSubmitStatus('success');
